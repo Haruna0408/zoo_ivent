@@ -1,0 +1,119 @@
+#container {
+	width: 980px;
+	text-align: center;
+	margin: auto;
+}
+#header {
+	overflow: hidden;
+	width: 980px;
+}
+
+#headerlogo {
+	width: 230px;
+	float: left;
+}
+#headermenu {
+	width: 750px;
+	float: left;
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#headermenu p {
+	display: inline;
+	padding-left: 10px;
+}
+
+
+#topimage {
+	clear: both;
+	width: 980px;
+	overflow: hidden;
+	text-align: center;
+}
+#glovalmenu {
+	clear: both;
+	width: 980px;
+	overflow: hidden;
+}
+#annai {
+	width: 245px;
+	float: left;
+}
+#syoukai {
+	width: 245px;
+	float: left;
+}
+#ivent {
+	width: 245px;
+	float: left;
+}
+#goods {
+	width: 245px;
+	float: left;
+}
+#main {
+	width: 980px;
+	overflow: hidden;
+}
+#localmenu {
+	width: 220px;
+	float: left;
+}
+#localmenu1 {
+	width: 220px;
+}
+#localmenu2 {
+	width: 220px;
+}
+#contents {
+	width: 750px;
+	float: left;
+}
+#contents1 {
+	width: 750px;
+}
+#contents2 {
+	width: 750px;
+}
+#contents3 {
+	width: 750px;
+}
+#contents4 {
+	width: 750px;
+}
+#footer {
+	width: 980px;
+	overflow: hidden;
+}
+#footersyozai {
+	width: 210px;
+	float: left;
+	text-align: left;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+#footermenu {
+	width: 750px;
+	float: left;
+	overflow: hidden;
+	text-align: right;
+	margin-top: 20px;
+}
+#footermenu p {
+	display: inline;
+}
+
+#footermenu1 {
+	width: 750px;
+}
+#footermenu2 {
+	width: 750px;
+}
+.copyright {
+	background-color: #FFC;
+	text-align: center;
+}
+.blue {
+	color: #33F;
+}
